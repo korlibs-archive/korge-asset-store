@@ -7,3 +7,5 @@ files:
 ---
 
 This is a sample of KTREE showing different restitution coefficients.
+
+![](icon.png)
